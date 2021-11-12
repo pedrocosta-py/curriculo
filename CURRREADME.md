@@ -1,3 +1,4 @@
+<main>
 <div class="gif-image">
   <header>
    <article>
@@ -76,7 +77,7 @@
    </header>
   </div>
   
-  ###
+  
   
 <div style="display: inline_block"><br>
    <img align="center" alt="sudoPedro-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -91,7 +92,7 @@
    <img align="center" alt="sudoPedro-linux" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   
-  ###
+  
   
  <div> 
    <header>
@@ -101,4 +102,4 @@
     <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </header>
  </div>
-  
+ </main>
