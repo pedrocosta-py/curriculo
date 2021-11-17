@@ -1,4 +1,6 @@
+
 <main>
+ <div class="container">
 <div class="gif-image">
   <header>
    <article>
@@ -68,14 +70,18 @@
   </header>
 </div>
 
-  <div align="center">
-    <header>
-       <h1> MY DAILY ACHIEVEMENTS </h1>
-       <a href="https://github.com/sudoAptIPedro">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=synthwave"/>
-   </header>
-  </div>
+<div align="center">
+ <header>
+  <h1> 🐱‍💻MY DAILY ACHIEVEMENTS ON GITHUB💻 </h1>
+  <a href="https://github.com/sudoAptIPedro">
+  <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=sudoAptIPedro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img style="border: 5px solid rgb(9, 255, 0); border-radius:50px;" height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&layout=compact&langs_count=7&theme=blue-green"/>
+  <img style="border: 5px solid rgb(14, 185, 157); border-radius:50px;" height="180em"
+    src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoAptIPedro&theme=blue-green"/>
+ </header>
+</div>
   
   
   
@@ -102,4 +108,5 @@
     <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </header>
  </div>
+  </div>
  </main>
